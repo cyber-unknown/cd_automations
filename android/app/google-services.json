@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059346914124",
+    "project_id": "cdauto-ef904",
+    "storage_bucket": "cdauto-ef904.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059346914124:android:bfcbe090cb31031b29cde9",
+        "android_client_info": {
+          "package_name": "com.example.cd_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCT0DEd6yINiruEWqScq8RT125QMc2k_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
